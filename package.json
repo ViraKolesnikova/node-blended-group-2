@@ -1,0 +1,25 @@
+{
+  "name": "node-blended-group-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "cross-env oleg=salo vera=fish",
+    "dev": "cross-env NODE_ENV=development nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViraKolesnikova/node-blended-group-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ViraKolesnikova/node-blended-group-2/issues"
+  },
+  "homepage": "https://github.com/ViraKolesnikova/node-blended-group-2#readme",
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "nodemon": "^2.0.15"
+  }
+}
